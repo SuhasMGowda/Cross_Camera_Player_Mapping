@@ -12,6 +12,7 @@ This project maps and tracks players across two different camera angles (`broadc
 - pip install opencv-python torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 - pip install ultralytics deep-sort-realtime opencv-python tqdm numpy matplotlib
 
+Download best.pt from (https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view) and save it in your directory.
 
 ---
 
